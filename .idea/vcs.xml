@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/BitManupulation" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Recursion/untitled" vcs="Git" />
   </component>
 </project>
